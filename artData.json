@@ -1,5 +1,6 @@
 [
     {
+        "id": 1001,
       "name": "Acrylic Master Set",
       "number_of_colours": 12,
       "type": "Acrylic",
@@ -10,6 +11,7 @@
       "img" :["acr5.jpg","acr4.webp","acr3.jpg", "acr2.jpg"]
     },
     {
+        "id": 1002,
       "name": "Oil Paint Starter Kit",
       "number_of_colours": 10,
       "type": "Oil",
@@ -20,6 +22,7 @@
       "img" :["acr3.jpg","oil2.jpg","acr1.jpg", "acr2.jpg"]
     },
     {
+        "id": 1003,
       "name": "Watercolor Essential Set",
       "number_of_colours": 24,
       "type": "Watercolor",
@@ -30,6 +33,7 @@
       "img" :["acr3.jpg","oil2.jpg","acr1.jpg", "acr2.jpg"]
     },
     {
+        "id": 1004,
       "name": "Gouache Artist Pack",
       "number_of_colours": 18,
       "type": "Gouache",
@@ -40,6 +44,7 @@
       "img" :["acr3.jpg","oil2.jpg","acr1.jpg", "acr2.jpg"]
     },
     {
+        "id": 1005,
       "name": "Professional Acrylic Tubes",
       "number_of_colours": 36,
       "type": "Acrylic",
@@ -50,6 +55,7 @@
       "img" :["acr1.jpg", "acr2.jpg"]
     },
     {
+        "id": 1006,
       "name": "Deluxe Oil Paint Collection",
       "number_of_colours": 24,
       "type": "Oil",
@@ -60,6 +66,7 @@
       "img" :["acr3.jpg","oil2.jpg","acr1.jpg", "acr2.jpg"]
     },
     {
+        "id": 1007,
       "name": "Student Watercolor Palette",
       "number_of_colours": 12,
       "type": "Watercolor",
@@ -70,6 +77,7 @@
       "img" :["acr3.jpg","oil2.jpg","acr1.jpg", "acr2.jpg"]
     },
     {
+        "id": 1008,
       "name": "Mini Acrylic Paint Set",
       "number_of_colours": 6,
       "type": "Acrylic",
@@ -80,6 +88,7 @@
       "img" :["acr3.jpg","oil2.jpg","acr1.jpg", "acr2.jpg"]
     },
     {
+        "id": 1009,
       "name": "Artist's Gouache Set",
       "number_of_colours": 30,
       "type": "Gouache",
@@ -90,6 +99,7 @@
       "img" :["acr3.jpg","oil2.jpg","acr1.jpg", "acr2.jpg"]
     },
     {
+        "id": 10010,
       "name": "Oil Painting Pro Kit",
       "number_of_colours": 48,
       "type": "Oil",
@@ -100,6 +110,7 @@
       "img" :["acr3.jpg","oil2.jpg","acr1.jpg", "acr2.jpg"]
     },
     {
+        "id": 10011,
       "name": "Craft Acrylic Paints",
       "number_of_colours": 20,
       "type": "Acrylic",
@@ -110,6 +121,7 @@
       "img" :["acr3.jpg","oil2.jpg","acr1.jpg", "acr2.jpg"]
     },
     {
+        "id": 10012,
       "name": "Luxury Oil Color Set",
       "number_of_colours": 32,
       "type": "Oil",
@@ -120,6 +132,7 @@
       "img" :["oil2.jpg","acr3.jpg","acr1.jpg", "acr2.jpg"]
     },
     {
+        "id": 10013,
       "name": "Signature Watercolor Pack",
       "number_of_colours": 15,
       "type": "Watercolor",
@@ -130,6 +143,7 @@
       "img" :["acr5.jpg","acr3.jpg","acr1.jpg", "acr2.jpg"]
     },
     {
+        "id": 10014,
       "name": "Beginner Gouache Collection",
       "number_of_colours": 8,
       "type": "Gouache",
@@ -140,6 +154,7 @@
       "img" :["acr5.jpg","acr3.jpg","acr1.jpg", "acr2.jpg"]
     },
     {
+        "id": 10015,
       "name": "Basic Acrylic Set",
       "number_of_colours": 10,
       "type": "Acrylic",
@@ -150,6 +165,7 @@
       "img" :["acr3.jpg","acr5.jpg","acr1.jpg", "acr2.jpg"]
     },
     {
+        "id": 10016,
       "name": "Ultimate Oil Paint Kit",
       "number_of_colours": 60,
       "type": "Oil",
@@ -160,6 +176,7 @@
       "img" :[ "oil3.jpg","oil5.jpg", "oil4.webp", "oil2.jpg"]
     },
     {
+        "id": 10017,
       "name": "Studio Watercolor Set",
       "number_of_colours": 40,
       "type": "Watercolor",
@@ -170,6 +187,7 @@
     "img" :["gau2.jpg" , "gau5.webp", "gau3.jpg" , "gau4.jpg"]
     },
     {
+        "id": 10018,
       "name": "Classic Gouache Colors",
       "number_of_colours": 16,
       "type": "Gouache",
@@ -180,6 +198,7 @@
       "img" :["gau5.webp", "gau2.jpg" , "gau3.jpg" , "gau4.jpg"]
     },
     {
+        "id": 10019,
       "name": "Professional Acrylic Artist Kit",
       "number_of_colours": 50,
       "type": "Acrylic",
@@ -190,6 +209,7 @@
       "img" :["oil4.webp","oil5.jpg", "oil3.jpg", "oil2.jpg"]
     },
     {
+        "id": 10020,
       "name": "Premium Oil Colors",
       "number_of_colours": 20,
       "type": "Oil",
