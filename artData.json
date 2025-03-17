@@ -1,223 +1,342 @@
 [
-    {
-        "id": 1001,
-      "name": "Acrylic Master Set",
-      "number_of_colours": 12,
-      "type": "Acrylic",
-      "price": 25.99,
-      "star_rating": 4.5,
-      "details": "12 Colors | 100 ml Each | Matte Finish | High Pigment Density | Perfect for Artists & Beginners",
-      "stock": 50,
-      "img" :["https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/acr2.jpg","https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/acr1.jpg"]
-    },
-    {
-        "id": 1002,
-      "name": "Oil Paint Starter Kit",
-      "number_of_colours": 10,
-      "type": "Oil",
-      "price": 35.50,
-      "star_rating": 4.7,
-      "details": "10 Colors | 40 ml Tubes | Smooth Blending | Rich Pigments | Suitable for Canvas & Wood",
-      "stock": 30,
-      "img" :["acr3.jpg","oil2.jpg","acr1.jpg", "acr2.jpg"]
-    },
-    {
-        "id": 1003,
-      "name": "Watercolor Essential Set",
-      "number_of_colours": 24,
-      "type": "Watercolor",
-      "price": 29.99,
-      "star_rating": 4.3,
-      "details": "24 Colors | 10 ml Tubes | Vibrant & Transparent | Easy Mixing | Non-Toxic",
-      "stock": 45,
-      "img" :["acr3.jpg","oil2.jpg","acr1.jpg", "acr2.jpg"]
-    },
-    {
-        "id": 1004,
-      "name": "Gouache Artist Pack",
-      "number_of_colours": 18,
-      "type": "Gouache",
-      "price": 40.75,
-      "star_rating": 4.8,
-      "details": "18 Colors | 30 ml Each | Matte Finish | Rich Pigments | Ideal for Professionals & Hobbyists",
-      "stock": 25,
-      "img" :["acr3.jpg","oil2.jpg","acr1.jpg", "acr2.jpg"]
-    },
-    {
-        "id": 1005,
-      "name": "Professional Acrylic Tubes",
-      "number_of_colours": 36,
-      "type": "Acrylic",
-      "price": 55.99,
-      "star_rating": 4.6,
-      "details": "36 Colors | 75 ml Tubes | Heavy Body | High Pigment Load | For Canvas, Wood & Paper",
-      "stock": 40,
-      "img" :["acr1.jpg", "acr2.jpg"]
-    },
-    {
-        "id": 1006,
-      "name": "Deluxe Oil Paint Collection",
-      "number_of_colours": 24,
-      "type": "Oil",
-      "price": 60.00,
-      "star_rating": 4.9,
-      "details": "24 Colors | 50 ml Tubes | Smooth & Creamy Texture | Long-Lasting Vibrancy | Professional Grade",
-      "stock": 20,
-      "img" :["acr3.jpg","oil2.jpg","acr1.jpg", "acr2.jpg"]
-    },
-    {
-        "id": 1007,
-      "name": "Student Watercolor Palette",
-      "number_of_colours": 12,
-      "type": "Watercolor",
-      "price": 18.99,
-      "star_rating": 4.2,
-      "details": "12 Colors | 5 ml Tubes | Transparent & Blendable | Quick Drying | Non-Toxic",
-      "stock": 60,
-      "img" :["acr3.jpg","oil2.jpg","acr1.jpg", "acr2.jpg"]
-    },
-    {
-        "id": 1008,
-      "name": "Mini Acrylic Paint Set",
-      "number_of_colours": 6,
-      "type": "Acrylic",
-      "price": 12.99,
-      "star_rating": 4.1,
-      "details": "6 Colors | 30 ml Tubes | Fast Drying | Smooth Application | Ideal for Kids & Beginners",
-      "stock": 70,
-      "img" :["acr3.jpg","oil2.jpg","acr1.jpg", "acr2.jpg"]
-    },
-    {
-        "id": 1009,
-      "name": "Artist's Gouache Set",
-      "number_of_colours": 30,
-      "type": "Gouache",
-      "price": 45.50,
-      "star_rating": 4.7,
-      "details": "30 Colors | 25 ml Jars | Matt Finish | Vibrant & Opaque | Suitable for Paper & Canvas",
-      "stock": 35,
-      "img" :["acr3.jpg","oil2.jpg","acr1.jpg", "acr2.jpg"]
-    },
-    {
-        "id": 10010,
-      "name": "Oil Painting Pro Kit",
-      "number_of_colours": 48,
-      "type": "Oil",
-      "price": 85.99,
-      "star_rating": 5.0,
-      "details": "48 Colors | 60 ml Tubes | Premium Pigments | Slow Drying | Ideal for Professional Artists",
-      "stock": 15,
-      "img" :["acr3.jpg","oil2.jpg","acr1.jpg", "acr2.jpg"]
-    },
-    {
-        "id": 10011,
-      "name": "Craft Acrylic Paints",
-      "number_of_colours": 20,
-      "type": "Acrylic",
-      "price": 30.99,
-      "star_rating": 4.4,
-      "details": "20 Colors | 50 ml Tubes | Multi-Surface Use | Rich & Creamy Texture | Non-Toxic",
-      "stock": 55,
-      "img" :["acr3.jpg","oil2.jpg","acr1.jpg", "acr2.jpg"]
-    },
-    {
-        "id": 10012,
-      "name": "Luxury Oil Color Set",
-      "number_of_colours": 32,
-      "type": "Oil",
-      "price": 70.50,
-      "star_rating": 4.8,
-      "details": "32 Colors | 50 ml Tubes | Deep Pigments | Smooth Finish | Suitable for Portrait & Landscape Art",
-      "stock": 22,
-      "img" :["oil2.jpg","acr3.jpg","acr1.jpg", "acr2.jpg"]
-    },
-    {
-        "id": 10013,
-      "name": "Signature Watercolor Pack",
-      "number_of_colours": 15,
-      "type": "Watercolor",
-      "price": 25.99,
-      "star_rating": 4.3,
-      "details": "15 Colors | 12 ml Tubes | Bright & Blendable | Lightfast | Great for Travel & Outdoor Painting",
-      "stock": 48,
-      "img" :["acr5.jpg","acr3.jpg","acr1.jpg", "acr2.jpg"]
-    },
-    {
-        "id": 10014,
-      "name": "Beginner Gouache Collection",
-      "number_of_colours": 8,
-      "type": "Gouache",
-      "price": 20.75,
-      "star_rating": 4.0,
-      "details": "8 Colors | 30 ml Tubes | Opaque & Matt | Water-Soluble | Ideal for Students",
-      "stock": 65,
-      "img" :["acr5.jpg","acr3.jpg","acr1.jpg", "acr2.jpg"]
-    },
-    {
-        "id": 10015,
-      "name": "Basic Acrylic Set",
-      "number_of_colours": 10,
-      "type": "Acrylic",
-      "price": 19.99,
-      "star_rating": 4.5,
-      "details": "10 Colors | 45 ml Tubes | Smooth Application | Fade Resistant | Suitable for Paper & Canvas",
-      "stock": 58,
-      "img" :["acr3.jpg","acr5.jpg","acr1.jpg", "acr2.jpg"]
-    },
-    {
-        "id": 10016,
-      "name": "Ultimate Oil Paint Kit",
-      "number_of_colours": 60,
-      "type": "Oil",
-      "price": 99.99,
-      "star_rating": 5.0,
-      "details": "60 Colors | 50 ml Tubes | Highest Pigment Load | Museum Quality | Made for Professionals",
-      "stock": 10,
-      "img" :[ "oil3.jpg","oil5.jpg", "oil4.webp", "oil2.jpg"]
-    },
-    {
-        "id": 10017,
-      "name": "Studio Watercolor Set",
-      "number_of_colours": 40,
-      "type": "Watercolor",
-      "price": 55.25,
-      "star_rating": 4.6,
-      "details": "40 Colors | 10 ml Tubes | High Transparency | Lightfast & Non-Toxic | Portable Travel Set",
-      "stock": 30,
-    "img" :["gau2.jpg" , "gau5.webp", "gau3.jpg" , "gau4.jpg"]
-    },
-    {
-        "id": 10018,
-      "name": "Classic Gouache Colors",
-      "number_of_colours": 16,
-      "type": "Gouache",
-      "price": 35.00,
-      "star_rating": 4.7,
-      "details": "16 Colors | 20 ml Tubes | Velvety Matte Finish | Blendable | Ideal for Fine Art & Illustration",
-      "stock": 42,
-      "img" :["gau5.webp", "gau2.jpg" , "gau3.jpg" , "gau4.jpg"]
-    },
-    {
-        "id": 10019,
-      "name": "Professional Acrylic Artist Kit",
-      "number_of_colours": 50,
-      "type": "Acrylic",
-      "price": 75.99,
-      "star_rating": 4.9,
-      "details": "50 Colors | 100 ml Bottles | Heavy Body | High Pigment Concentration | Smooth Blending",
-      "stock": 28,
-      "img" :["oil4.webp","oil5.jpg", "oil3.jpg", "oil2.jpg"]
-    },
-    {
-        "id": 10020,
-      "name": "Premium Oil Colors",
-      "number_of_colours": 20,
-      "type": "Oil",
-      "price": 45.99,
-      "star_rating": 4.5,
-      "details": "20 Colors | 40 ml Tubes | High-Quality Oils | Buttery Consistency | Great for Layering & Glazing",
-      "stock": 37,
-      "img" :["oil5.jpg", "oil4.webp", "oil3.jpg", "oil2.jpg"]
-    }
-  ]
-  
+  {
+    "id": 1001,
+    "name": "Acrylic Master Set",
+    "number_of_colours": 12,
+    "type": "Acrylic",
+    "price": 25.99,
+    "star_rating": 4.5,
+    "details": "12 Colors | 100 ml Each | Matte Finish | High Pigment Density | Perfect for Artists & Beginners",
+    "stock": 50,
+    "img": [
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/acr2.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/acr1.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/acr3.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/acr4.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/acr5.jpg"
+    ]
+  },
+  {
+    "id": 1002,
+    "name": "Oil Paint Starter Kit",
+    "number_of_colours": 10,
+    "type": "Oil",
+    "price": 35.5,
+    "star_rating": 4.7,
+    "details": "10 Colors | 40 ml Tubes | Smooth Blending | Rich Pigments | Suitable for Canvas & Wood",
+    "stock": 30,
+    "img": [
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/acr1.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/acr2.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/acr3.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/acr4.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/acr5.jpg"
+    ]
+  },
+  {
+    "id": 1003,
+    "name": "Watercolor Essential Set",
+    "number_of_colours": 24,
+    "type": "Watercolor",
+    "price": 29.99,
+    "star_rating": 4.3,
+    "details": "24 Colors | 10 ml Tubes | Vibrant & Transparent | Easy Mixing | Non-Toxic",
+    "stock": 45,
+    "img": [
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/acr3.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/acr1.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/acr2.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/acr4.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/acr5.jpg"
+    ]
+  },
+  {
+    "id": 1004,
+    "name": "Gouache Artist Pack",
+    "number_of_colours": 18,
+    "type": "Gouache",
+    "price": 40.75,
+    "star_rating": 4.8,
+    "details": "18 Colors | 30 ml Each | Matte Finish | Rich Pigments | Ideal for Professionals & Hobbyists",
+    "stock": 25,
+    "img": [
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau1.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau2.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau3.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau4.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau5.webp"
+    ]
+  },
+  {
+    "id": 1005,
+    "name": "Professional Acrylic Tubes",
+    "number_of_colours": 36,
+    "type": "Acrylic",
+    "price": 55.99,
+    "star_rating": 4.6,
+    "details": "36 Colors | 75 ml Tubes | Heavy Body | High Pigment Load | For Canvas, Wood & Paper",
+    "stock": 40,
+    "img": [
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/acr4.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/acr3.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/acr1.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/acr2.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/acr5.jpg"
+    ]
+  },
+  {
+    "id": 1006,
+    "name": "Deluxe Oil Paint Collection",
+    "number_of_colours": 24,
+    "type": "Oil",
+    "price": 60.0,
+    "star_rating": 4.9,
+    "details": "24 Colors | 50 ml Tubes | Smooth & Creamy Texture | Long-Lasting Vibrancy | Professional Grade",
+    "stock": 20,
+    "img": [
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau3.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau2.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau1.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau4.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau5.webp"
+    ]
+  },
+  {
+    "id": 1007,
+    "name": "Student Watercolor Palette",
+    "number_of_colours": 12,
+    "type": "Watercolor",
+    "price": 18.99,
+    "star_rating": 4.2,
+    "details": "12 Colors | 5 ml Tubes | Transparent & Blendable | Quick Drying | Non-Toxic",
+    "stock": 60,
+    "img": [
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau2.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau1.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau3.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau4.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau5.webp"
+    ]
+  },
+  {
+    "id": 1008,
+    "name": "Mini Acrylic Paint Set",
+    "number_of_colours": 6,
+    "type": "Acrylic",
+    "price": 12.99,
+    "star_rating": 4.1,
+    "details": "6 Colors | 30 ml Tubes | Fast Drying | Smooth Application | Ideal for Kids & Beginners",
+    "stock": 70,
+    "img": [
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil4.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil3.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil1.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil5.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil2.jpg"
+    ]
+  },
+  {
+    "id": 1009,
+    "name": "Artist's Gouache Set",
+    "number_of_colours": 30,
+    "type": "Gouache",
+    "price": 45.5,
+    "star_rating": 4.7,
+    "details": "30 Colors | 25 ml Jars | Matt Finish | Vibrant & Opaque | Suitable for Paper & Canvas",
+    "stock": 35,
+    "img": [
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau2.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau1.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau3.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau4.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau5.webp"
+    ]
+  },
+  {
+    "id": 10010,
+    "name": "Oil Painting Pro Kit",
+    "number_of_colours": 48,
+    "type": "Oil",
+    "price": 85.99,
+    "star_rating": 5.0,
+    "details": "48 Colors | 60 ml Tubes | Premium Pigments | Slow Drying | Ideal for Professional Artists",
+    "stock": 15,
+    "img": [
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil3.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil1.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil5.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil4.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil2.jpg"
+    ]
+  },
+  {
+    "id": 10011,
+    "name": "Craft Acrylic Paints",
+    "number_of_colours": 20,
+    "type": "Acrylic",
+    "price": 30.99,
+    "star_rating": 4.4,
+    "details": "20 Colors | 50 ml Tubes | Multi-Surface Use | Rich & Creamy Texture | Non-Toxic",
+    "stock": 55,
+    "img": [
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil1.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil5.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil4.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil3.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil2.jpg"
+    ]
+  },
+  {
+    "id": 10012,
+    "name": "Luxury Oil Color Set",
+    "number_of_colours": 32,
+    "type": "Oil",
+    "price": 70.5,
+    "star_rating": 4.8,
+    "details": "32 Colors | 50 ml Tubes | Deep Pigments | Smooth Finish | Suitable for Portrait & Landscape Art",
+    "stock": 22,
+    "img": [
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil5.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil4.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil3.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil2.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil1.webp"
+    ]
+  },
+  {
+    "id": 10013,
+    "name": "Signature Watercolor Pack",
+    "number_of_colours": 15,
+    "type": "Watercolor",
+    "price": 25.99,
+    "star_rating": 4.3,
+    "details": "15 Colors | 12 ml Tubes | Bright & Blendable | Lightfast | Great for Travel & Outdoor Painting",
+    "stock": 48,
+    "img": [
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau3.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau2.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau1.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau4.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau5.webp"
+    ]
+  },
+  {
+    "id": 10014,
+    "name": "Beginner Gouache Collection",
+    "number_of_colours": 8,
+    "type": "Gouache",
+    "price": 20.75,
+    "star_rating": 4.0,
+    "details": "8 Colors | 30 ml Tubes | Opaque & Matt | Water-Soluble | Ideal for Students",
+    "stock": 65,
+    "img": [
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau4.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau3.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau2.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau1.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau5.webp"
+    ]
+  },
+  {
+    "id": 10015,
+    "name": "Basic Acrylic Set",
+    "number_of_colours": 10,
+    "type": "Acrylic",
+    "price": 19.99,
+    "star_rating": 4.5,
+    "details": "10 Colors | 45 ml Tubes | Smooth Application | Fade Resistant | Suitable for Paper & Canvas",
+    "stock": 58,
+    "img": [
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau5.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau4.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau3.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau2.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau1.webp"
+    ]
+  },
+  {
+    "id": 10016,
+    "name": "Ultimate Oil Paint Kit",
+    "number_of_colours": 60,
+    "type": "Oil",
+    "price": 99.99,
+    "star_rating": 5.0,
+    "details": "60 Colors | 50 ml Tubes | Highest Pigment Load | Museum Quality | Made for Professionals",
+    "stock": 10,
+    "img": [
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil4.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil3.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil2.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil1.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil5.jpg"
+    ]
+  },
+  {
+    "id": 10017,
+    "name": "Studio Watercolor Set",
+    "number_of_colours": 40,
+    "type": "Watercolor",
+    "price": 55.25,
+    "star_rating": 4.6,
+    "details": "40 Colors | 10 ml Tubes | High Transparency | Lightfast & Non-Toxic | Portable Travel Set",
+    "stock": 30,
+    "img": [
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil3.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil2.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil1.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil4.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil5.jpg"
+    ]
+  },
+  {
+    "id": 10018,
+    "name": "Classic Gouache Colors",
+    "number_of_colours": 16,
+    "type": "Gouache",
+    "price": 35.0,
+    "star_rating": 4.7,
+    "details": "16 Colors | 20 ml Tubes | Velvety Matte Finish | Blendable | Ideal for Fine Art & Illustration",
+    "stock": 42,
+    "img": [
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau1.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau5.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau4.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau3.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/gau2.jpg"
+    ]
+  },
+  {
+    "id": 10019,
+    "name": "Professional Acrylic Artist Kit",
+    "number_of_colours": 50,
+    "type": "Acrylic",
+    "price": 75.99,
+    "star_rating": 4.9,
+    "details": "50 Colors | 100 ml Bottles | Heavy Body | High Pigment Concentration | Smooth Blending",
+    "stock": 28,
+    "img": [
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil2.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil1.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil3.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil4.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil5.jpg"
+    ]
+  },
+  {
+    "id": 10020,
+    "name": "Premium Oil Colors",
+    "number_of_colours": 20,
+    "type": "Oil",
+    "price": 45.99,
+    "star_rating": 4.5,
+    "details": "20 Colors | 40 ml Tubes | High-Quality Oils | Buttery Consistency | Great for Layering & Glazing",
+    "stock": 37,
+    "img": [
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil1.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil2.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil3.jpg",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil4.webp",
+      "https://raw.githubusercontent.com/AnsaAli/art-data/refs/heads/main/oil5.jpg"
+    ]
+  }
+]
